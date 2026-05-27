@@ -53,7 +53,7 @@ simple_rnn_imdb/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/imdb-sentiment-analysis.git
+git clone https://github.com/Ghost190303/imdb-sentiment-analysis.git
 cd imdb-sentiment-analysis
 ```
 
